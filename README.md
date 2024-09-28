@@ -8,5 +8,5 @@ This repository contains implementations of various data structures in the follo
 This should serve to understand the data structures and by implementing in these languages should serve to 
 learn these languages as well.
 
-These code samples have been written following the youtube videos of freecodecamp.org channel's "https://github.com/kartkris/DataStructures.githttps://github.com/kartkris/DataStructures.git" 
+These code samples have been written following the youtube videos of freecodecamp.org channel's "Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer" 
 and can be accessed at: https://www.youtube.com/watch?v=RBSGKlAvoiM
